@@ -1,1 +1,1 @@
-Sharing daily report of frontend development internship journey at ProSensia
+Sharing daily report about frontend development internship journey at ProSensia
